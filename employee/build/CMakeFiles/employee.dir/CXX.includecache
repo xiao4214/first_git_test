@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/aooc/mydev/cpp/project/employee/main.cpp
+iostream
+-
+workerManager.h
+/home/aooc/mydev/cpp/project/employee/workerManager.h
+
+/home/aooc/mydev/cpp/project/employee/workerManager.cpp
+workerManager.h
+/home/aooc/mydev/cpp/project/employee/workerManager.h
+stdlib.h
+-
+
+/home/aooc/mydev/cpp/project/employee/workerManager.h
+iostream
+-
+

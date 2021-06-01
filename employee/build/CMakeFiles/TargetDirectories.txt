@@ -1,0 +1,3 @@
+/home/aooc/mydev/cpp/project/employee/build/CMakeFiles/rebuild_cache.dir
+/home/aooc/mydev/cpp/project/employee/build/CMakeFiles/employee.dir
+/home/aooc/mydev/cpp/project/employee/build/CMakeFiles/edit_cache.dir

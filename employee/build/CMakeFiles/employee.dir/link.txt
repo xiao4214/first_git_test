@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/employee.dir/home/aooc/mydev/cpp/project/employee/main.cpp.o CMakeFiles/employee.dir/home/aooc/mydev/cpp/project/employee/workerManager.cpp.o  -o employee 
